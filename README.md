@@ -19,3 +19,22 @@
 7. You need the ability to get cache statistics in the form of a list of hits:
    Key, Value, How many hits left.
 8. Use TDD.
+
+## Запуск тестов
+
+Для настройки зависимостей выполните
+
+```bash
+npm install
+```
+
+Выполнить тесты:
+```bash
+npm run test
+```
+Прсчитать покрытие:
+```bash
+npm run coverage
+```
+
+   
