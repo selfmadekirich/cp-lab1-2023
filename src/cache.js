@@ -4,11 +4,11 @@ class Cache{
    }
 
    setValue(key,value,hits){
-    return false;
+    return undefined;
    }
 
    getValue(key){
-    return null;
+    return undefined;
    }
 
    getStats(){
